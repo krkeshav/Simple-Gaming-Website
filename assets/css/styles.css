@@ -1,0 +1,9 @@
+.navbar-light .navbar-brand {
+  font-size:40px;
+  font-family:Acme;
+}
+
+.navbar.navbar-light.navbar-expand-md.navigation-clean-button {
+  background-color:rgba(62,32,250,0.04);
+}
+
